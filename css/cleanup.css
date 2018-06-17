@@ -9,7 +9,7 @@ div  div {
   display: none;
 }
 
-div ~ div
+body ~ div
 {
   display: none;
 }
