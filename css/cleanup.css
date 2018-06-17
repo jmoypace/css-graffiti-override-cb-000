@@ -4,11 +4,11 @@
   display: none;
 }
 
-/*
+
 div  div {
   display: none;
 }
-*/
+
 div + div
 {
   display: none;
