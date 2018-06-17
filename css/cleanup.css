@@ -9,7 +9,7 @@ div  div {
   display: none;
 }
 
- div[class="slick wicked"]
+ body [class="slick wicked"]
 {
 display: none;
 }
