@@ -4,7 +4,9 @@
   display: none;
 }
 
-
+div div {
+  display: none;
+}
 
 /*
 #wall .tag-3 {
