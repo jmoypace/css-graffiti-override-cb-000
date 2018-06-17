@@ -9,7 +9,7 @@ div  div {
   display: none;
 }
 
-body > ."slick wicked" {
+div[slick] {
 {
 display: none;
 }
