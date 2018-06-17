@@ -9,8 +9,7 @@ div  div {
   display: none;
 }
 
-.tag-1
-
+div + div
 {
   display: none;
 }
